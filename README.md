@@ -1,2 +1,2 @@
-# JavaLeetCode
-LeetCode练习
+# Java
+Java
